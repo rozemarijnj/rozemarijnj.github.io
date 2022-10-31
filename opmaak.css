@@ -13,3 +13,9 @@ h3 {
   color:rgb(8, 1, 112);
 
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
