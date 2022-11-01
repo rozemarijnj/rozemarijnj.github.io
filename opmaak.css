@@ -28,6 +28,6 @@ li {
 li a {
   text-align: center;
   display: block;
-  padding: 0;
+  padding: 8px;
   background-color: black;
 }
