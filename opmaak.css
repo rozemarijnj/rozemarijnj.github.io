@@ -42,7 +42,7 @@ li a {
   background-color: #a1a1a1;
   padding: 8px;
   text-align: center;
-  font: arial;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: large;
 }
 
@@ -51,4 +51,6 @@ li a {
   background-color: #a1a1a1;
   padding: 4px;
   text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: x-small;
 }
