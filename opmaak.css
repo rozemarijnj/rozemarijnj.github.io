@@ -39,7 +39,9 @@ li a {
 
 /* Style the header */
 .header {
-  background-color: #fff6fc;
-  padding: 10px;
+  background-color: #a1a1a1;
+  padding: 8px;
   text-align: center;
+  font: arial;
+  font-size: large;
 }
