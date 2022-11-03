@@ -45,3 +45,10 @@ li a {
   font: arial;
   font-size: large;
 }
+
+/* Style the footer */
+.footer {
+  background-color: #a1a1a1;
+  padding: 4px;
+  text-align: center;
+}
