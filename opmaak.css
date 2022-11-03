@@ -36,3 +36,10 @@ li a {
 .active {
   background-color: #ff9ecb;
 }
+
+/* Style the header */
+.header {
+  background-color: #fff6fc;
+  padding: 10px;
+  text-align: center;
+}
