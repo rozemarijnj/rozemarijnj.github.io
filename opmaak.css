@@ -55,7 +55,7 @@ li a {
   font-size: x-small;
 }
 
-{
+body {
   background-image: url("achtergrondwebsite.jpg");
   background-color: rgb(226, 225, 222);
 }
