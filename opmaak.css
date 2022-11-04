@@ -21,6 +21,10 @@ ul {
   background-color: #808080;
 }
 
+.active {
+  background-color: #ff9ecb;
+}
+
 li {
   float: left;
 }
@@ -31,10 +35,6 @@ li a {
   display: block;
   padding: 8px;
   text-decoration: none;
-}
-
-.active {
-  background-color: #ff9ecb;
 }
 
 /* Style the header */
