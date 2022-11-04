@@ -55,4 +55,7 @@ li a {
   font-size: x-small;
 }
 
-
+{
+  background-image: url("achtergrondfoto.html");
+  background-color: rgb(226, 225, 222);
+}
