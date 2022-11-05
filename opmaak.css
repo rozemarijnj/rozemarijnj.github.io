@@ -9,11 +9,12 @@ p {
 
 }
 
+/* zorgt ervoor dat de tekst in de lettergrote en het kopje h3 staat zwart is*/
 h3 {
   color:rgb(2, 0, 17);
 
 }
-
+/* dit bepaalt hoe mijn menu balk eruit ziet*/
 ul {
   list-style-type: none;
   margin: 0;
@@ -22,14 +23,11 @@ ul {
   background-color: #808080;
 }
 
-.active {
-  background-color: #ff9ecb;
-}
-
+/* dit deel zorgt ervoor dat alle kopjes in mijn menu balk links staan*/
 li {
   float: left;
 }
-
+/* dit deel is voor de opmaak van de tekst in de menu balk*/
 li a {
   color: white;
   text-align: center;
@@ -56,6 +54,7 @@ li a {
   font-size: x-small;
 }
 
+/* dit deel voegt een achtergrond afbeelding toe*/
 body {
   background-image: url("achtergrondwebsite.jpg");
   background-color: rgb(226, 225, 222);
