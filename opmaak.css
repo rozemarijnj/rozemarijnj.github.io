@@ -13,6 +13,15 @@ p {
 h3 {
   color:rgb(2, 0, 17);
 
+}
+/* dit bepaalt hoe mijn menu balk eruit ziet*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #808080;
+}
 
 /* dit deel zorgt ervoor dat alle kopjes in mijn menu balk links staan*/
 li {
