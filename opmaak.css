@@ -30,7 +30,7 @@ li {
 /* dit deel is voor de opmaak van de tekst in de menu balk*/
 li a {
   color: white;
-  text-align: center;
+  text-align: left;
   display: block;
   padding: 8px;
   text-decoration: none;
