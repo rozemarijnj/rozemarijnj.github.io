@@ -93,9 +93,7 @@ body {
     margin: 0;
   }
   
-  .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: darkgrey ;
-  }
+   
   
   .dropdown-content {
     display: none;
