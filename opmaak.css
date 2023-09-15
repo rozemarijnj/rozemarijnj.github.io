@@ -19,6 +19,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #808080;
+  height: 200px; 
 }
 
 /* dit deel zorgt ervoor dat alle kopjes in mijn menu balk links staan*/
