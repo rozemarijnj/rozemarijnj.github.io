@@ -10,7 +10,7 @@ p {
 /* zorgt ervoor dat de tekst in de lettergrote en het kopje h3 staat zwart is*/
 h3 {
   color:rgb(2, 0, 17);
-
+  font
 }
 /* dit bepaalt hoe mijn menu balk eruit ziet*/
 ul {
@@ -87,7 +87,7 @@ body {
     font-size: 16px;  
     border: none;
     outline: none;
-    color: rgb(0, 0, 0);
+    color: rgb(179, 179, 179);
     padding: 14px 16px;
     
     font-family: inherit;
