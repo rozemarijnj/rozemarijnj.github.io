@@ -1,4 +1,4 @@
-/*achtergrond body wordt lichtgrijs*/
+
 
 /* past het lettertype en te tekstgrote aan*/ 
 p {
@@ -45,7 +45,7 @@ li a {
 
 /* Style the footer */
 .footer {
-  background-color: #000000;
+  background-color: #cccccc;
   padding: 4px;
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
