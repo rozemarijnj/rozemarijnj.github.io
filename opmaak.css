@@ -114,7 +114,7 @@ body {
   }
   
   .dropdown-content a:hover {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(215, 215, 215);
   }
   
   .dropdown:hover .dropdown-content {
