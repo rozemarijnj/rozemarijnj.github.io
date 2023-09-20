@@ -89,7 +89,7 @@ body {
     outline: none;
     color: rgb(0, 0, 0);
     padding: 14px 16px;
-    
+    background-color: grey;
     font-family: inherit;
     margin: 0;
   }
