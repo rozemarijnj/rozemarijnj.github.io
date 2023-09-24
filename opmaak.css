@@ -122,3 +122,6 @@ body {
     display: block;
   }
   
+ol {
+  background-color: none;
+}
